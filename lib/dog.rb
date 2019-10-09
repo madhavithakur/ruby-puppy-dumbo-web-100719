@@ -24,7 +24,7 @@ class Dog
     
     @@all.each do |ele|
     
-    puts ele
+    p ele
   end 
   
   def save 
