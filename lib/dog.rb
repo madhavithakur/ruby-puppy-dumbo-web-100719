@@ -19,9 +19,9 @@ class Dog
   end 
   
   def self.print_all
-    output = ""
-    @@all.each {|ele| output += ele}.to_str
-    puts output
+    
+    @@all.each {|ele| ele}.to_str
+  
   end 
   
   def save 
