@@ -20,6 +20,8 @@ class Dog
     
     # @@all.each_with_object("") do |result|
     #   result << @all 
+    
+    
   end
   end 
   
