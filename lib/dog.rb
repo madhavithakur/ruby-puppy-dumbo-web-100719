@@ -21,11 +21,10 @@ class Dog
     # @@all.each_with_object("") do |result|
     #   result << @all 
     
-    result = ""
+    
     @@all.each do |ele|
-      result += ele
-    end 
-    puts result
+    
+    puts ele
     
   end 
   
