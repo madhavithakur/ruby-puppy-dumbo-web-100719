@@ -26,6 +26,7 @@ class Dog
     
     p ele
   end 
+  end 
   
   def save 
     @@all 
