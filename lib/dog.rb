@@ -21,9 +21,9 @@ class Dog
     
   end 
   
-  # def save 
-  #   @@all 
-  # end
+  def save 
+    @@all 
+  end
   
 
   
