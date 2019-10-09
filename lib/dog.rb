@@ -21,7 +21,7 @@ class Dog
   def self.print_all
     
     @@all.each_with_object("") do {|ele| ele}
-  
+  end
   end 
   
   def save 
