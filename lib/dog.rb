@@ -20,7 +20,7 @@ class Dog
   
   def self.print_all
     
-    @@all.each_with_object {|ele| ele}.to_s
+    @@all.each_with_object("") {|ele| ele}.to_s
   
   end 
   
