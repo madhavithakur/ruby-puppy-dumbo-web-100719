@@ -26,6 +26,7 @@ class Dog
       result += ele
     end 
     puts result
+    
   end 
   
   def save 
