@@ -21,7 +21,7 @@ class Dog
   def self.print_all
     
     @@all.each_with_object("") do |result|
-      result.push("#{@@all[1].to_s}")
+      @all
   end
   end 
   
