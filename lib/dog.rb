@@ -17,20 +17,13 @@ class Dog
   end 
   
   def self.print_all
-    
-    # @@all.each_with_object("") do |result|
-    #   result << @all 
-    
-    
     @@all.each do |ele|
-    
-    p ele.name
-  end 
+      puts ele.name
+    end 
   end 
   
   def save 
     @@all 
-    
   end
   
 
