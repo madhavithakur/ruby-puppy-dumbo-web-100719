@@ -20,7 +20,7 @@ class Dog
   
   def self.print_all
     
-    @@all.each {|ele| ele}.to_str
+    @@all.each {|ele| ele}.to_s
   
   end 
   
