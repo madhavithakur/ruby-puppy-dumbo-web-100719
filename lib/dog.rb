@@ -13,8 +13,6 @@ class Dog
   end 
   
   def self.clear_all
-    
-   # @@all.each {|ele|}.delete(ele)
    @@all.clear
   end 
   
