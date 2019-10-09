@@ -24,7 +24,7 @@ class Dog
     
     @@all.each do |ele|
     
-    p ele
+    p ele.name
   end 
   end 
   
